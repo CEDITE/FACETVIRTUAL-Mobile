@@ -1,10 +1,15 @@
 {
-"name": "Moodle Mobile",
+"name": "FACETVIRTUAL Mobile",
 "license": {
     "name": "Apache 2.0",
     "link": "http://www.apache.org/licenses/LICENSE-2.0"
 },
 "credits": [
+{
+    "fullname": "Ticiano Torres Peralta",
+    "contribution": "FACETVIRTUAL Branding",
+    "company": "CEDITE - FACET - UNT"
+},
 {
     "fullname": "Juan Leyva",
     "contribution": "Main developer",
