@@ -1,11 +1,11 @@
 body {
- background: #009fe3;
+ background: #dddddd;
 }
 h1 {
  color: #164194;
 }
 .user-menu header h1 {
- color: #fa8f1c;
+ color: #164194;
 }
 h2 {
  color: #164194;
@@ -27,11 +27,11 @@ h2 {
  box-shadow: none;
 }
 .user-menu .nav-item > a {
- color: #fa8f1c;
+ color: #ffffff;
 }
 .user-menu .nav-item .plugin-ico,
 .user-menu .nav-item .course-ico {
- background-color: #4b565d;
+ background-color: #ffffff;
 }
 .grades .section-name {
  color: #ffffff;
